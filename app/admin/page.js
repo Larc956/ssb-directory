@@ -1,27 +1,38 @@
 'use client';
-import { createClient } from '@supabase/supabase-js';
-
-const supabase = createClient(process.env.NEXT_PUBLIC_SUPABASE_URL, process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
-
-// Inside your component:
-const { data, error } = await supabase
-  .from('notary_locations')
-  .select('*')
-  .eq('status', 'PENDING');
+import { useState, useEffect } from 'react';
+import { supabase } from '@/lib/supabaseClient'; // Import the client we just created
 
 export default function AdminDashboard() {
-    // In a real app, this data would be fetched from your Postgres Database
-    const [pendingLocations, setPendingLocations] = useState([
-        {
-            id: 1, name: "Cheap Print Hub", address: "Fabian de la Rosa St", 
-            latitude: 14.6393, longitude: 121.0773, price: 5, notes: "Black and white only"
+    const [pendingLocations, setPendingLocations] = useState([]);
+
+    useEffect(() => {
+        async function fetchPending() {
+            // Fetch from the 'notary_locations' table where status is 'PENDING'
+            const { data, error } = await supabase
+                .from('notary_locations')
+                .select('*')
+                .eq('status', 'PENDING');
+            
+            if (error) {
+                console.error("Error fetching data:", error);
+            } else {
+                setPendingLocations(data);
+            }
         }
-    ]);
+        fetchPending();
+    }, []);
 
     const handleApprove = async (id) => {
-        // Here you would trigger an API route to update the status to 'APPROVED' in Postgres
-        alert(`Approved location ID: ${id}`);
-        setPendingLocations(pendingLocations.filter(loc => loc.id !== id));
+        // Update the status in the database to 'APPROVED'
+        const { error } = await supabase
+            .from('notary_locations')
+            .update({ status: 'APPROVED' })
+            .eq('id', id);
+
+        if (!error) {
+            setPendingLocations(pendingLocations.filter(loc => loc.id !== id));
+            alert("Location Approved!");
+        }
     };
 
     const handleReject = async (id) => {
