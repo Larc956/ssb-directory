@@ -1,8 +1,8 @@
 'use client';
 import { useState } from 'react';
 import dynamic from 'next/dynamic';
+import SubmissionForm from '../components/SubmissionForm';
 
-// Dynamically import the map
 const Map = dynamic(() => import('../components/Map'), { ssr: false });
 
 export default function Home() {
@@ -10,7 +10,6 @@ export default function Home() {
     const [userLocation, setUserLocation] = useState(null);
     const [isLocating, setIsLocating] = useState(false);
 
-    // The function to trigger the browser's GPS
     const locateUser = () => {
         setIsLocating(true);
         if ("geolocation" in navigator) {
@@ -22,7 +21,7 @@ export default function Home() {
                     });
                     setIsLocating(false);
                 },
-                (error) => {
+                () => {
                     alert("Could not access location. Please allow location permissions in your browser.");
                     setIsLocating(false);
                 }
@@ -43,9 +42,7 @@ export default function Home() {
                     <p className="text-sm opacity-80 mt-1">Notary Publics around Katipunan</p>
                 </div>
                 
-                {/* Control Panel */}
                 <div className="flex flex-wrap items-center gap-4">
-                    {/* NEW: Find Me Button */}
                     <button 
                         onClick={locateUser}
                         disabled={isLocating}
@@ -70,9 +67,13 @@ export default function Home() {
                 </div>
             </header>
 
-            <div className="flex-grow w-full relative">
-                {/* Pass the new userLocation down to the map */}
-                <Map maxBudget={maxBudget} userLocation={userLocation} />
+            <div className="flex-grow w-full relative flex flex-col md:flex-row">
+                <div className="w-full md:w-3/4 h-[70vh] md:h-full">
+                    <Map maxBudget={maxBudget} userLocation={userLocation} />
+                </div>
+                <div className="w-full md:w-1/4 bg-white border-l border-gray-200 p-4 overflow-y-auto">
+                    <SubmissionForm />
+                </div>
             </div>
         </main>
     );
