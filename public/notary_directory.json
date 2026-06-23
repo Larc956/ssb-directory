@@ -1,0 +1,560 @@
+[
+    {
+        "name": "Ken Notarial Services (Main Branch \u2013 Batasan Hills)",
+        "address": "001 Kalayaan B St., corner IBP Rd., Batasan Hills, Quezon City",
+        "latitude": 14.694,
+        "longitude": 121.096,
+        "price": 100,
+        "price_range_text": "\u20b1100\u2013150",
+        "operating_hours": "Monday to Sunday, 7:00 AM \u2013 6:30 PM",
+        "walk": "https://maps.app.goo.gl/958i3ZbA4mC7Aqh5A",
+        "student_discount": true,
+        "student_discount_details": "Min: None, Per doc: 100",
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "0930 099 3389",
+            "email": "kennotarialservices@gmail.com",
+            "facebook": "facebook.com/notarypublicquezoncity",
+            "payment_methods": {
+                "cash": true,
+                "gcash": true,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": true,
+                "courier": true
+            },
+            "feedback": "",
+            "status": "Verified via email \u2013 23 Jul 2025",
+            "bulk_discount": "50"
+        }
+    },
+    {
+        "name": "Ken Notarial Services (Extended Branch \u2013 With Parking)",
+        "address": "1 Kasayahan St., IBP Rd., Batasan Hills, Quezon City",
+        "latitude": 14.6946,
+        "longitude": 121.0963,
+        "price": 100,
+        "price_range_text": "\u20b1100\u2013150",
+        "operating_hours": "Monday to Saturday, 8:00 AM \u2013 6:30 PM",
+        "walk": "https://maps.app.goo.gl/gGXijzAE9RrCknFc9?g_st=ipc",
+        "student_discount": true,
+        "student_discount_details": "Min: None, Per doc: 100",
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "0930 099 3389",
+            "email": "kennotarialservices@gmail.com",
+            "facebook": "facebook.com/notarypublicquezoncity",
+            "payment_methods": {
+                "cash": true,
+                "gcash": true,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": true,
+                "courier": true
+            },
+            "feedback": "",
+            "status": "Verified via email \u2013 23 Jul 2025",
+            "bulk_discount": "50"
+        }
+    },
+    {
+        "name": "Ken Notarial Services (Luzon Avenue Branch)",
+        "address": "95A Luzon Avenue, Purok 1, Brgy. Culiat, Quezon City",
+        "latitude": 14.694,
+        "longitude": 121.096,
+        "price": 100,
+        "price_range_text": "\u20b1100\u2013150",
+        "operating_hours": "Monday to Saturday, 8:00 AM \u2013 6:30 PM",
+        "walk": "https://maps.app.goo.gl/Cbw8q8poNTjTXToBA",
+        "student_discount": true,
+        "student_discount_details": "Min: None, Per doc: 100",
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "0930 099 3389",
+            "email": "kennotarialservices@gmail.com",
+            "facebook": "facebook.com/notarypublicquezoncity",
+            "payment_methods": {
+                "cash": true,
+                "gcash": true,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": true,
+                "courier": true
+            },
+            "feedback": "",
+            "status": "Verified via email \u2013 23 Jul 2025",
+            "bulk_discount": "50"
+        }
+    },
+    {
+        "name": "Ken Notarial Services (Quirino Highway Branch \u2013 Novaliches)",
+        "address": "1025-(B6) Don Julio Gregorio St., Sauyo-Bagbag, Novaliches, Quezon City",
+        "latitude": 14.694,
+        "longitude": 121.096,
+        "price": 100,
+        "price_range_text": "\u20b1100\u2013150",
+        "operating_hours": "Monday to Saturday, 8:00 AM \u2013 6:30 PM",
+        "walk": "https://maps.app.goo.gl/QdRqNmgzDjYZNdQT7",
+        "student_discount": true,
+        "student_discount_details": "Min: None, Per doc: 100",
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "0930 099 3389",
+            "email": "kennotarialservices@gmail.com",
+            "facebook": "facebook.com/notarypublicquezoncity",
+            "payment_methods": {
+                "cash": true,
+                "gcash": true,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": true,
+                "courier": true
+            },
+            "feedback": "",
+            "status": "Verified via email \u2013 23 Jul 2025",
+            "bulk_discount": "50"
+        }
+    },
+    {
+        "name": "C&L Notary Public",
+        "address": "691 Tandang Sora Ave., Matandang Balara, Quezon City",
+        "latitude": null,
+        "longitude": null,
+        "price": 100,
+        "price_range_text": "\u20b1100\u2013150",
+        "operating_hours": "Monday to Friday, 9:00 AM \u2013 5:00 PM; Saturday, 9:00 AM \u2013 3:00 PM",
+        "walk": "",
+        "student_discount": true,
+        "student_discount_details": "Min: Available upon discussion, Per doc: Available upon discussion",
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "0926 756 7767",
+            "email": "clfc.services@gmail.com",
+            "facebook": "facebook.com/CrizsNotaryPublic2018",
+            "payment_methods": {
+                "cash": true,
+                "gcash": true,
+                "bank_transfer": true
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": true,
+                "courier": true
+            },
+            "feedback": "",
+            "status": "Verified via email \u2013 23 Jul 2025",
+            "bulk_discount": "Available upon discussion"
+        }
+    },
+    {
+        "name": "Mamaril Law Office",
+        "address": "2F WCD Building, 4J Chanyungco St., New Marikina Subdivision, Sta. Elena, Marikina City",
+        "latitude": null,
+        "longitude": null,
+        "price": 500,
+        "price_range_text": "\u20b1500",
+        "operating_hours": "Monday to Friday, 8:00AM \u2013 5:00PM",
+        "walk": "",
+        "student_discount": true,
+        "student_discount_details": "Min: Available upon discussion, Per doc: Available upon discussion",
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "0917 529 3999",
+            "email": "abelmamaril7@gmail.com",
+            "facebook": "facebook.com/profile.php?id=100064086966793",
+            "payment_methods": {
+                "cash": true,
+                "gcash": true,
+                "bank_transfer": true
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Verified via email \u2013 23 Jul 2025",
+            "bulk_discount": "Available upon discussion"
+        }
+    },
+    {
+        "name": "Atty. Tzeitel Christine DG. Cruz / Atty. Romeo Cruz",
+        "address": "Uni 7, Bldg 2, Kamagong Centennial Dormitory, E. Jacinto St., UP Diliman",
+        "latitude": null,
+        "longitude": null,
+        "price": 200,
+        "price_range_text": "\u20b1200\u2013500",
+        "operating_hours": "",
+        "walk": "",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "tzeiteldgcruz@gmail.com",
+            "facebook": "",
+            "payment_methods": {
+                "cash": false,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": false,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Verified via online sources \u2013 23 Jul 2025",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Damian Law and Notarial Office / Atty. Mary Catherine A. Damian",
+        "address": "Unit 9, Bldg 2, Acacia Residence Halls, Laurel Ave, UP Diliman",
+        "latitude": null,
+        "longitude": null,
+        "price": null,
+        "price_range_text": "",
+        "operating_hours": "",
+        "walk": "",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": false,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": false,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Verified via online sources \u2013 23 Jul 2025",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "P.S. David Law Office",
+        "address": "Unit 212, The Burgundy Place Condominium, 174 B. Gonzales St, corner Katipunan Ave, Quezon City",
+        "latitude": null,
+        "longitude": null,
+        "price": 300,
+        "price_range_text": "\u20b1300\u2013500",
+        "operating_hours": "Monday to Friday, 9:00 AM \u2013 5:00 PM",
+        "walk": "Entrance near Intermatrix",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "02 8426 7548",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": true,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "Quick and polite service (~20 mins), even with just photocopied IDs since one signatory was out of town. No GCash payment option\u2014had to walk to a nearby 7-Eleven to withdraw cash. A bit pricey, but a decent last-resort option if you're in a hurry around Katipunan.",
+            "status": "Verified via community input - 25 Jul 2025",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Ching Law Firm (Ching Law Office)",
+        "address": "J. Chanyungco St, Marikina, 1800 Metro Manila",
+        "latitude": null,
+        "longitude": null,
+        "price": null,
+        "price_range_text": "",
+        "operating_hours": "",
+        "walk": "",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": false,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": false,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Not yet verified",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Letratoinc",
+        "address": "L1, Q Plaza Commercial Centre, Marcos Highway Corner Imelda Avenue, Pasig",
+        "latitude": null,
+        "longitude": null,
+        "price": null,
+        "price_range_text": "",
+        "operating_hours": "",
+        "walk": "",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": false,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": false,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Not yet verified",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Marikina City Hall, 2nd Floor",
+        "address": "Shoe Ave., Sta. Elena, Marikina City",
+        "latitude": 14.6425,
+        "longitude": 121.0761,
+        "price": null,
+        "price_range_text": "",
+        "operating_hours": "",
+        "walk": "",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": false,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": false,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Not yet verified",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "TDMM & Associates Law Office",
+        "address": "11 Champagnat St., Marikina Heights, Marikina City",
+        "latitude": null,
+        "longitude": null,
+        "price": null,
+        "price_range_text": "",
+        "operating_hours": "",
+        "walk": "",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "0956 170 8903",
+            "email": "tdmmlaw@gmail.com",
+            "facebook": "",
+            "payment_methods": {
+                "cash": false,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": false,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Not yet verified",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Atty. Manny V. Gragasin",
+        "address": "DPOS Bldg. Ground Floor Quezon City Hall",
+        "latitude": null,
+        "longitude": null,
+        "price": 100,
+        "price_range_text": "\u20b1100\u2013150",
+        "operating_hours": "8:00 AM \u2013 4:00 PM",
+        "walk": "Inside QC Hall East Ave. Gate, beside Civil Registry Office (inside food stalls)",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": true,
+                "gcash": true,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "They printed my document for free",
+            "status": "Verified via community input - 25 Jul 2025",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Manila City Hall, 2nd Floor",
+        "address": "Padre Burgos Ave, Ermita, City of Manila",
+        "latitude": 14.6425,
+        "longitude": 121.0761,
+        "price": 0,
+        "price_range_text": "None",
+        "operating_hours": "Monday to Friday, 7:00 AM \u2013 4:00 PM",
+        "walk": "Infront of SM Manila near Kartilya ng Katipunan and LRT 1 Central Station",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 1",
+            "contact": "",
+            "email": "manilapublicinfo@gmail.com",
+            "facebook": "facebook.com/cityhallmanila",
+            "payment_methods": {
+                "cash": false,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "Had my DOST contract notarized in the morning\u2014service was fast and free. Given ongoing city hall operations due to the recent typhoon and state of calamity, it's best to come early and be prepared for possible delays. If unsure, ask the city hall guards\u2014they can guide you to the right office or floor.",
+            "status": "Verified via community input - 25 Jul 2025",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Soguilon Law Office",
+        "address": "15 Anonas, Project 3, Quezon City",
+        "latitude": 14.6288,
+        "longitude": 121.0652,
+        "price": 200,
+        "price_range_text": "\u20b1200",
+        "operating_hours": "",
+        "walk": "",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": true,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "",
+            "status": "Verified via community input - 26 Jul 2025",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Arceo & Tandoc Law Firm",
+        "address": "3F Xavier Building, 41 Esteban Abada St., corner Rosa Alvero St., Loyola Heights, Quezon City",
+        "latitude": 14.6355,
+        "longitude": 121.0725,
+        "price": 1000,
+        "price_range_text": "\u20b11,000",
+        "operating_hours": "Monday to Friday, 8:00 AM \u2013 5:00 PM",
+        "walk": "Enter the street between McDo and Shakey's. Walk toward RCBC. Across RCBC, you'll see Jjang Mart. Go around to the other side of Jjang Mart\u2019s building to find the entrance. Go to Room 314 \u2014 that\u2019s the law firm.",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "lawfirm@arceotandoc.com",
+            "facebook": "facebook.com/arceotandoclawfirm",
+            "payment_methods": {
+                "cash": true,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "I just went here because I saw them on Google Maps while searching for a notary public in Katipunan and I didn't know how much their fee is. I'd say they're pretty accommodating; however, I didn't actually get anything notarized since they charge 1000 pesos per document. As such, I wouldn't recommend going here, unless you're really desperate.",
+            "status": "Verified via community input - 12 Aug 2025",
+            "bulk_discount": ""
+        }
+    },
+    {
+        "name": "Del Mundo-Buendia Law & Notarial Office",
+        "address": "396 Sumulong Highway, Marikina City",
+        "latitude": 14.631,
+        "longitude": 121.0965,
+        "price": 200,
+        "price_range_text": "\u20b1200",
+        "operating_hours": "",
+        "walk": "In front of Marikina Public Market, near Phil Trust Bank",
+        "student_discount": false,
+        "student_discount_details": null,
+        "details": {
+            "area": "Metro Manila District 2",
+            "contact": "",
+            "email": "",
+            "facebook": "",
+            "payment_methods": {
+                "cash": true,
+                "gcash": false,
+                "bank_transfer": false
+            },
+            "service_channels": {
+                "walk_in": true,
+                "online": false,
+                "courier": false
+            },
+            "feedback": "They tend to have some typos, so check for those; they're willing to reprint for correction.",
+            "status": "Verified via community input - 27 Aug 2025",
+            "bulk_discount": ""
+        }
+    }
+]

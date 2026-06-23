@@ -1,0 +1,20 @@
+[
+    {
+        "id": 101,
+        "name": "JSEC Stall 4",
+        "address": "Ateneo de Manila University, Quezon City",
+        "price": 120,
+        "latitude": 14.6398984,
+        "longitude": 121.0781952,
+        "status": "NEEDS_ADMIN_APPROVAL"
+    },
+    {
+        "id": 102,
+        "name": "Cheap Print Hub",
+        "address": "Fabian de la Rosa St, Loyola Heights, Quezon City",
+        "price": 5,
+        "latitude": 14.6399582,
+        "longitude": 121.0727786,
+        "status": "NEEDS_ADMIN_APPROVAL"
+    }
+]
